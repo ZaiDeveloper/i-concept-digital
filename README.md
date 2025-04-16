@@ -1,14 +1,14 @@
-# Resume Builder By ZaiZainal.Com
+# Product CRUD By ZaiZainal.Com
 
-A resume/CV builder that helps generate a beautiful resume in a minute.
+Interview coding assesment by I Concept Digital
 
 Features:
 
 -   Laravel 11
--   Tailwind
+-   TailwindCSS
 -   Asset Bundling (Vite)
 -   Laravel filter
--   Use action concept
+-   API Integration (https://dummyjson.com)
 
 ## Setup Env
 
@@ -25,7 +25,7 @@ Features:
 -   Set your database credentials in your .env file
 -   Run migration 'php artisan migrate'
 -   Vite 'npm install && npm run dev'
--   Laravel storage 'php artisan storage:link'
+-   Laravel storage 'php artisan storage:link' (Optional)
 
 ## Running Vite
 
