@@ -75,7 +75,7 @@
                 </div>
 
                 <footer class="text-center pt-5 pb-[12rem] lg:mb-0 h-[18rem] lg:h-36">
-                    Dibina oleh
+                    Powered By
                     <a href="https://zaizainal.com" target="_blank" class="font-semibold">zaizainal.com</a>
                 </footer>
             </div>
